@@ -13,12 +13,12 @@
 
   <meta property="og:title" content="Laurent Lebarbier - Développeur web" />
   <meta property="og:url" content="https://laurentlebarbier.fr" />
-  <!-- <meta property="og:image" content="medias/vignette-site.png"> -->
+  <meta property="og:image" content="medias/vignette-site.png" />
   <meta property="og:description" content="Portfolio de Laurent Lebarbier, développeur web étudiant à l'ACS" />
   <meta property="og:site_name" content="Laurent Lebarbier - Développeur web" />
   <meta property="og:type" content="Porfolio" />
-  <meta name="image" property="og:image" content="medias/vignette-site.png">
-  <meta name="author" content="Laurent Lebarbier">
+  <meta name="image" property="og:image" content="medias/vignette-site.png" />
+  <meta name="author" content="Laurent Lebarbier" />
 
 </head>
 
@@ -97,7 +97,7 @@
 
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
-  <!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script> -->
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src='script.js'></script>
 
